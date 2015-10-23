@@ -14,7 +14,7 @@ html{
 
 body{
 	margin: 0;
-	background-color: red;
+	
 }
 
 .img-flex {
@@ -25,4 +25,19 @@ body{
 .gutter{
 	padding-left: 1.5rem;
 	padding-right: 1.5rem;
+}
+
+header{
+	background-color: grey;
+}
+
+li{
+	display: inline-block;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+a{
+
+	text-decoration: none;
 }
